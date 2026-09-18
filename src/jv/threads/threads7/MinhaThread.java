@@ -1,7 +1,5 @@
 package jv.threads.threads7;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class MinhaThread implements Runnable{
 
     private String nome;
